@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @princex1
+- 
+- 👀 I’m interested in technology and AI staff
+- 
+- 🌱 I’m currently learning python
+- 
+- 📫 You Can reach me At princewebinfo@gmail.com
+- 
+- ⚡ Fun fact: The first 1GB hard drive, released in 1980, was as big as a refrigerator and cost a whopping $40,000
+- 
