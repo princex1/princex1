@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently learning python
 - 
-- 📫 You Can reach me At princewebinfo@gmail.com
+- 📫 You Can reach me At <a>princewebinfo@gmail.com<a>
 - 
 - ⚡ Fun fact: The first 1GB hard drive, released in 1980, was as big as a refrigerator and cost a whopping $40,000
 - 
